@@ -1,11 +1,9 @@
-// TODO: 実装予定
 function increment(value) {
-    return value;
+    return value + 100;
 }
 
-// TODO: 実装予定
 function decrement(value) {
-    return value;
+    return value + 100;
 }
 
 window.onload = () => {
